@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Pikachu", "type": "electric" },
+  { "id": 2, "name": "Charmander", "type": "fire" },
+  { "id": 3, "name": "Squirtle", "type": "water" },
+  { "id": 4, "name": "Bulbasaur", "type": "grass" },
+  { "id": 5, "name": "Jigglypuff", "type": "normal" },
+  { "id": 6, "name": "Gengar", "type": "ghost" },
+  { "id": 7, "name": "Snorlax", "type": "normal" },
+  { "id": 8, "name": "Mewtwo", "type": "psychic" },
+  { "id": 9, "name": "Lapras", "type": "water" },
+  { "id": 10, "name": "Articuno", "type": "ice" }
+]
